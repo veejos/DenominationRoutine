@@ -65,6 +65,7 @@ public class Program
                     Console.WriteLine(combination);
 
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
